@@ -28,8 +28,8 @@ class Database extends Config
         'DSN'          => '',
         'hostname'     => '127.0.0.1',
         'username'     => 'root',
-        'password'     => '', #tu password
-        'database'     => 'umg',
+        'password'     => 'guate123',
+        'database'     => 'umg2',
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,
