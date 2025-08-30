@@ -1,0 +1,15 @@
+/vendor/
+.env
+/writable/cache/
+/writable/logs/
+/writable/session/
+/writable/debugbar/
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+*~
